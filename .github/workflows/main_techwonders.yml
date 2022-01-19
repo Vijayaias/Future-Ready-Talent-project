@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'TECHwonders'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CC6EF0E8FB99442A902EF6618A8AB553 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6DA56CBB0ADA43FCB8EF215FFFAAFC28 }}
           package: .
