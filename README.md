@@ -1,7 +1,9 @@
 # Future Ready Talent Project
 Hosting a website on online courses using html and css and jquery
-My deployment url is:
-https://filesdp.azurewebsites.net
+My deployment url is:  https://filesdp.azurewebsites.net
+..................._____________......................
+
+My github url is: https://vijayaias.github.io/Future-Ready-Talent-project/
 
 Azure Technologies
 1.Azure Devops
