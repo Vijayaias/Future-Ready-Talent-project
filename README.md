@@ -1,7 +1,7 @@
 # Future Ready Talent Project
-Hosting a website on online courses using html and css and jquery
+Hosting a online E-Learning platform using html,css and jquery
 My deployment url is:  https://bharathilearning.azurewebsites.net
-..................._____________......................
+..................._____________........................
 
 My github url is: https://vijayaias.github.io/Future-Ready-Talent-project/
 
