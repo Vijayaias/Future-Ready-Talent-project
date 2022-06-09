@@ -137,7 +137,7 @@ section {
   display: none;
 }
 
-.home {
+.index {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -149,28 +149,28 @@ section {
   gap: 2rem;
 }
 
-.home .image {
+.index .image {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
 }
 
-.home .image img {
+.index .image img {
   width: 100%;
 }
 
-.home .content {
+.index.content {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
 }
 
-.home .content h3 {
+.index .content h3 {
   color: #302851;
   font-size: 5rem;
 }
 
-.home .content p {
+.index .content p {
   font-size: 1.4rem;
   color: #666;
   padding: 1rem 0;
